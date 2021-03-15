@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bF2YUCH/za4+9W7WqxwfY2BPfEATQGv4UOWwklsTsI0Es+9OFFA8/naW13S3uQpOBEMpyE3q3bBS5H64yZAsUQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huy-Plejd\\Desktop\\Projects\\JsonTester\\JsonTester\\JsonTester.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huy-Plejd\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

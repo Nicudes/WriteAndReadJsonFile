@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Huy-Plejd\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Huy-Plejd\\.nuget\\packages"
+    ]
+  }
+}
